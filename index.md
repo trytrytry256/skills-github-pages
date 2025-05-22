@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
 ---
-Hello
-
+Hello! 
+I am a new learner here!
